@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data
+/data/*
+
+# Env
+toxic-env/
+
 # C extensions
 *.so
 
